@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="PublicKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">...</Value>
+    </Setting>
+    <Setting Name="PrivateKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">...</Value>
+    </Setting>
+    <Setting Name="Sandbox_PublicKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">...</Value>
+    </Setting>
+    <Setting Name="SandBox_PrivateKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">...</Value>
+    </Setting>
+    <Setting Name="UseSandBox" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Tier" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Pro</Value>
+    </Setting>
+    <Setting Name="Limit" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="AutoApprove" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="QueryThrottle" Type="System.TimeSpan" Scope="Application">
+      <Value Profile="(Default)">00:00:30</Value>
+    </Setting>
+    <Setting Name="PauseBeforeExit" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

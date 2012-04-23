@@ -1,0 +1,15 @@
+<TranslationJob>
+  <SourceLanguage>en</SourceLanguage>
+  <TargetLanguages>
+    <TargetLanguage>fr</TargetLanguage>
+    <TargetLanguage>es</TargetLanguage>
+    <TargetLanguage>de</TargetLanguage>
+  </TargetLanguages>
+  <TranslatorsComment>
+    <![CDATA[This is the comment that will get sent to the translator.
+
+Include as much information about your translation as possible here.
+
+Thank you very much,]]>
+  </TranslatorsComment>
+</TranslationJob>
